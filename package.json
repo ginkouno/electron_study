@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/ginkouno/electron_study/issues"
   },
-  "homepage": "https://github.com/ginkouno/electron_study#readme"
+  "homepage": "https://github.com/ginkouno/electron_study#readme",
+  "devDependencies": {
+    "electron-packager": "^13.0.1",
+    "electron-prebuilt": "^1.4.13"
+  }
 }
