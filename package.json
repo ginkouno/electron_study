@@ -1,0 +1,23 @@
+{
+  "name": "electron_study",
+  "version": "0.0.1",
+  "description": "Markdown editor for remark.js (For tutorial article)",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ginkouno/electron_study.git"
+  },
+  "keywords": [
+    "Markdown",
+    "Presentation"
+  ],
+  "author": "Makoto Kono",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ginkouno/electron_study/issues"
+  },
+  "homepage": "https://github.com/ginkouno/electron_study#readme"
+}
