@@ -23,5 +23,8 @@
   "devDependencies": {
     "electron-packager": "^13.0.1",
     "electron-prebuilt": "^1.4.13"
+  },
+  "dependencies": {
+    "ace-min-noconflict": "^1.1.9"
   }
 }
